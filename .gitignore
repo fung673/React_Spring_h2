@@ -1,0 +1,12 @@
+# Node.js
+frontend/node_modules/
+frontend/build/
+frontend/*.log
+
+# Java
+backend/target/
+backend/*.log
+backend/*.class
+
+# General
+*.log
